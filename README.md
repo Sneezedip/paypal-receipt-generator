@@ -1,4 +1,9 @@
 # PayPal Receipt Generator
+<div style="align=center">
+   
+[![Discord](https://img.shields.io/discord/1107726482224197642?label=discord&color=9089DA&logo=discord&style=for-the-badge)](https://discord.gg/nAa5PyxubF)
+
+</div>
 
 ![Demo Screenshot](assets/demo.png)
 
