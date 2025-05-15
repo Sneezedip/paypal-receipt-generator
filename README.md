@@ -18,40 +18,21 @@ Customizable, responsive, and perfect for demos, educational, or testing purpose
 
 ---
 
-## Demo
-
-![Receipt Example](assets/demo.png)
-
----
-
 ## Usage
 
-1. **Clone the repo:**
+1. **Run the generator:**
    ```bash
-   git clone https://github.com/yourusername/paypal-receipt-generator.git
-   cd paypal-receipt-generator
+   python main.py
    ```
 
-2. **Install requirements (if any):**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the generator:**
-   ```bash
-   python fake_html.py
-   ```
-
-4. **Customize:**
-   - Edit the parameters in `fake_html.py` to set name, email, amount, recipient, currency, and language.
+2. **Customize:**
+   - Edit the parameters in `main.py` to set name, email, amount, recipient, currency, and language.
 
 ---
 
 ## Example
 
 ```python
-from fake_html import create_paypal_receipt_html
-
 create_paypal_receipt_html(
     name="John Doe",
     email="john@example.com",
@@ -81,12 +62,6 @@ create_paypal_receipt_html(
 
 > **This tool is for educational, demonstration, and testing purposes only.  
 > All receipts are clearly marked as fake and should not be used for fraudulent or deceptive activities.**
-
----
-
-## License
-
-MIT
 
 ---
 
