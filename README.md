@@ -67,7 +67,7 @@ create_paypal_receipt_html(
 
 > **This tool is for educational, demonstration, and testing purposes only.  
 > All receipts are clearly marked as fake and should not be used for fraudulent or deceptive activities.**
-> The author does not hold any responsibility for the bad use of this tool
+> **The author does not hold any responsibility for the bad use of this tool**
 
 ---
 
